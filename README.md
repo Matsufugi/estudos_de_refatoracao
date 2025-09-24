@@ -1,6 +1,6 @@
 # 🛠️ Refatoração de Código
 
-> Seguindo o guia de estudos na [Alura]("alura.com.br") e exemplos práticos sobre **refatoração** consegui desenvolver novas hablidades para desenvolver um código limpo e sem o tão famoso "Bad smell".
+> Seguindo o guia de estudos na [Alura]("alura.com.br") e exemplos práticos sobre **refatoração** consegui desenvolver novas habilidades para desenvolver um código limpo e sem o tão famoso "Bad smell".
 
 ---
 
@@ -21,7 +21,7 @@ O objetivo é tornar o código **mais legível, simples, eficiente e fácil de m
 ---
 
 ## ⚠️ Code Smells (Maus Cheiros)
-Sinais de que seu código precisa de refatoração:
+Sinais de que o código precisa de refatoração:
 - **Método muito grande**: Faz mais de uma coisa.
 - **Duplicação de código**: Mesma lógica repetida em vários lugares.
 - **Nomes ruins**: Variáveis ou métodos com nomes confusos.
@@ -59,4 +59,4 @@ Sinais de que seu código precisa de refatoração:
 
 
 Obrigado por ficar até aqui !!
-}
+Projeto desenvolvido parafins de estudo e desenvolvimento de novas habilidades.
